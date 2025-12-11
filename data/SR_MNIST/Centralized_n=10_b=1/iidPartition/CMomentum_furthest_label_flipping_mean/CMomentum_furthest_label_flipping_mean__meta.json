@@ -1,0 +1,32 @@
+{
+  "baseline": "CMomentum_furthest_label_flipping_mean",
+  "partition": "iidPartition",
+  "meta": {
+    "byzantine_size": 1,
+    "dataset": "mnist",
+    "dataset_feature_dimension": 784,
+    "dataset_size": 60000,
+    "display_interval": 100,
+    "fix_seed": true,
+    "honest_size": 9,
+    "lr": 0.01,
+    "rounds": 200,
+    "seed": 100,
+    "total_iterations": 20000,
+    "weight_decay": 0.01,
+    "source_runs": [
+      "iidPartition/CMomentum_furthest_label_flipping_mean"
+    ],
+    "run_count": 1
+  },
+  "provenance": {
+    "source_files": [
+      "SR_mnist/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_mean"
+    ],
+    "raw_hashes": {
+      "SR_mnist/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_mean": "5e548c607317f83e9309b92480c261ee359c35cf59b6d8090bf4c69b3ac9f614"
+    },
+    "converted_at": "2025-12-11T04:18:33.754043+00:00",
+    "converter_version": "1.0.0"
+  }
+}

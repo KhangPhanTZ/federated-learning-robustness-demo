@@ -1,0 +1,32 @@
+{
+  "baseline": "CMomentum_label_flipping_mean",
+  "partition": "LabelSeperation",
+  "meta": {
+    "byzantine_size": 1,
+    "dataset": "mnist",
+    "dataset_feature_dimension": 784,
+    "dataset_size": 60000,
+    "display_interval": 100,
+    "fix_seed": true,
+    "honest_size": 9,
+    "lr": 0.01,
+    "rounds": 200,
+    "seed": 100,
+    "total_iterations": 20000,
+    "weight_decay": 0.01,
+    "source_runs": [
+      "LabelSeperation/CMomentum_label_flipping_mean"
+    ],
+    "run_count": 1
+  },
+  "provenance": {
+    "source_files": [
+      "SR_mnist/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_mean"
+    ],
+    "raw_hashes": {
+      "SR_mnist/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_mean": "80f8329c816e9b711d384f9cfd842b538ab0ba173fd4ef3b9415de643ca492d1"
+    },
+    "converted_at": "2025-12-11T04:18:33.352839+00:00",
+    "converter_version": "1.0.0"
+  }
+}

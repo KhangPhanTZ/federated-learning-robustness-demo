@@ -1,0 +1,282 @@
+{
+  "converter_version": "1.0.0",
+  "generated_at": "2025-12-11T04:18:34.193519+00:00",
+  "partitions": {
+    "DirichletPartition_alpha=1": {
+      "CMomentum_furthest_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_CC_tau=0.3/CMomentum_furthest_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_CC_tau=0.3/CMomentum_furthest_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_CC_tau=0.3/CMomentum_furthest_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_LFighter": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CMomentum_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_CC_tau=0.3/CMomentum_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_CC_tau=0.3/CMomentum_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_CC_tau=0.3/CMomentum_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CMomentum_label_flipping_LFighter": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__iterations.csv"
+      },
+      "CMomentum_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__iterations.csv"
+      },
+      "CMomentum_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__iterations.csv"
+      },
+      "CMomentum_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_CC_tau=0.3/CSGD_furthest_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_CC_tau=0.3/CSGD_furthest_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_CC_tau=0.3/CSGD_furthest_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CSGD_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_CC_tau=0.3/CSGD_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_CC_tau=0.3/CSGD_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_CC_tau=0.3/CSGD_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CSGD_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_faba/CSGD_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_faba/CSGD_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_faba/CSGD_label_flipping_faba__iterations.csv"
+      },
+      "CSGD_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_mean/CSGD_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_mean/CSGD_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_mean/CSGD_label_flipping_mean__iterations.csv"
+      },
+      "CSGD_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__iterations.csv"
+      }
+    },
+    "LabelSeperation": {
+      "CMomentum_furthest_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_CC_tau=0.3/CMomentum_furthest_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_CC_tau=0.3/CMomentum_furthest_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_CC_tau=0.3/CMomentum_furthest_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_LFighter": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CMomentum_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_CC_tau=0.3/CMomentum_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_CC_tau=0.3/CMomentum_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_CC_tau=0.3/CMomentum_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CMomentum_label_flipping_LFighter": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__iterations.csv"
+      },
+      "CMomentum_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__iterations.csv"
+      },
+      "CMomentum_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__iterations.csv"
+      },
+      "CMomentum_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_CC_tau=0.3/CSGD_furthest_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_CC_tau=0.3/CSGD_furthest_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_CC_tau=0.3/CSGD_furthest_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CSGD_label_flipping_CC_tau=0.3": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_CC_tau=0.3/CSGD_label_flipping_CC_tau=0.3__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_CC_tau=0.3/CSGD_label_flipping_CC_tau=0.3__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_CC_tau=0.3/CSGD_label_flipping_CC_tau=0.3__iterations.csv"
+      },
+      "CSGD_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_faba/CSGD_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_faba/CSGD_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_faba/CSGD_label_flipping_faba__iterations.csv"
+      },
+      "CSGD_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_mean/CSGD_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_mean/CSGD_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_mean/CSGD_label_flipping_mean__iterations.csv"
+      },
+      "CSGD_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/LabelSeperation/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__iterations.csv"
+      }
+    },
+    "iidPartition": {
+      "CMomentum_furthest_label_flipping_CC_tau=0.1": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_CC_tau=0.1/CMomentum_furthest_label_flipping_CC_tau=0.1__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_CC_tau=0.1/CMomentum_furthest_label_flipping_CC_tau=0.1__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_CC_tau=0.1/CMomentum_furthest_label_flipping_CC_tau=0.1__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_LFighter": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_LFighter/CMomentum_furthest_label_flipping_LFighter__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_faba/CMomentum_furthest_label_flipping_faba__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_mean/CMomentum_furthest_label_flipping_mean__iterations.csv"
+      },
+      "CMomentum_furthest_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_furthest_label_flipping_trimmed_mean/CMomentum_furthest_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CMomentum_label_flipping_CC_tau=0.1": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_CC_tau=0.1/CMomentum_label_flipping_CC_tau=0.1__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_CC_tau=0.1/CMomentum_label_flipping_CC_tau=0.1__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_CC_tau=0.1/CMomentum_label_flipping_CC_tau=0.1__iterations.csv"
+      },
+      "CMomentum_label_flipping_LFighter": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_LFighter/CMomentum_label_flipping_LFighter__iterations.csv"
+      },
+      "CMomentum_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_faba/CMomentum_label_flipping_faba__iterations.csv"
+      },
+      "CMomentum_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_mean/CMomentum_label_flipping_mean__iterations.csv"
+      },
+      "CMomentum_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CMomentum_label_flipping_trimmed_mean/CMomentum_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_CC_tau=0.1": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_CC_tau=0.1/CSGD_furthest_label_flipping_CC_tau=0.1__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_CC_tau=0.1/CSGD_furthest_label_flipping_CC_tau=0.1__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_CC_tau=0.1/CSGD_furthest_label_flipping_CC_tau=0.1__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_faba/CSGD_furthest_label_flipping_faba__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_mean/CSGD_furthest_label_flipping_mean__iterations.csv"
+      },
+      "CSGD_furthest_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_furthest_label_flipping_trimmed_mean/CSGD_furthest_label_flipping_trimmed_mean__iterations.csv"
+      },
+      "CSGD_label_flipping_CC_tau=0.1": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_CC_tau=0.1/CSGD_label_flipping_CC_tau=0.1__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_CC_tau=0.1/CSGD_label_flipping_CC_tau=0.1__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_CC_tau=0.1/CSGD_label_flipping_CC_tau=0.1__iterations.csv"
+      },
+      "CSGD_label_flipping_faba": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_faba/CSGD_label_flipping_faba__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_faba/CSGD_label_flipping_faba__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_faba/CSGD_label_flipping_faba__iterations.csv"
+      },
+      "CSGD_label_flipping_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_mean/CSGD_label_flipping_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_mean/CSGD_label_flipping_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_mean/CSGD_label_flipping_mean__iterations.csv"
+      },
+      "CSGD_label_flipping_trimmed_mean": {
+        "meta": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__meta.json",
+        "iterations_json": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__iterations.json",
+        "iterations_csv": "data/SR_MNIST/Centralized_n=10_b=1/iidPartition/CSGD_label_flipping_trimmed_mean/CSGD_label_flipping_trimmed_mean__iterations.csv"
+      }
+    }
+  }
+}

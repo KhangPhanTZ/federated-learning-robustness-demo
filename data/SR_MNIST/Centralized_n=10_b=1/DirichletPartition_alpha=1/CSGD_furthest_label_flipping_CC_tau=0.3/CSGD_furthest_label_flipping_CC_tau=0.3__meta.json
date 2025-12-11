@@ -1,0 +1,32 @@
+{
+  "baseline": "CSGD_furthest_label_flipping_CC_tau=0.3",
+  "partition": "DirichletPartition_alpha=1",
+  "meta": {
+    "byzantine_size": 1,
+    "dataset": "mnist",
+    "dataset_feature_dimension": 784,
+    "dataset_size": 60000,
+    "display_interval": 100,
+    "fix_seed": true,
+    "honest_size": 9,
+    "lr": 0.01,
+    "rounds": 200,
+    "seed": 100,
+    "total_iterations": 20000,
+    "weight_decay": 0.01,
+    "source_runs": [
+      "DirichletPartition_alpha=1/CSGD_furthest_label_flipping_CC_tau=0"
+    ],
+    "run_count": 1
+  },
+  "provenance": {
+    "source_files": [
+      "SR_mnist/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_CC_tau=0.3"
+    ],
+    "raw_hashes": {
+      "SR_mnist/Centralized_n=10_b=1/DirichletPartition_alpha=1/CSGD_furthest_label_flipping_CC_tau=0.3": "5e179bda03352f15c35b7b9263ea5a2b929e6236210dd17daec89578c7ec8d0e"
+    },
+    "converted_at": "2025-12-11T04:18:32.858034+00:00",
+    "converter_version": "1.0.0"
+  }
+}

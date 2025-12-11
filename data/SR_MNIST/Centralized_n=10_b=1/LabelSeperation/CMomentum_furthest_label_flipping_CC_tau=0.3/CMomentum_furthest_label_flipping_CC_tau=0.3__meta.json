@@ -1,0 +1,32 @@
+{
+  "baseline": "CMomentum_furthest_label_flipping_CC_tau=0.3",
+  "partition": "LabelSeperation",
+  "meta": {
+    "byzantine_size": 1,
+    "dataset": "mnist",
+    "dataset_feature_dimension": 784,
+    "dataset_size": 60000,
+    "display_interval": 100,
+    "fix_seed": true,
+    "honest_size": 9,
+    "lr": 0.01,
+    "rounds": 200,
+    "seed": 100,
+    "total_iterations": 20000,
+    "weight_decay": 0.01,
+    "source_runs": [
+      "LabelSeperation/CMomentum_furthest_label_flipping_CC_tau=0"
+    ],
+    "run_count": 1
+  },
+  "provenance": {
+    "source_files": [
+      "SR_mnist/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_CC_tau=0.3"
+    ],
+    "raw_hashes": {
+      "SR_mnist/Centralized_n=10_b=1/LabelSeperation/CMomentum_furthest_label_flipping_CC_tau=0.3": "1a5b3da6878e211b8167b8f47b0d446e577495afa09be1ffe3c5867918d25e10"
+    },
+    "converted_at": "2025-12-11T04:18:33.104365+00:00",
+    "converter_version": "1.0.0"
+  }
+}
